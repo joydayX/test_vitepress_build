@@ -17,6 +17,7 @@
       ]
     }
   },
+  "packageManager": "pnpm@7.15.0",
   "keywords": [],
   "author": "",
   "license": "ISC",
